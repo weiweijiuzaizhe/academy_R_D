@@ -96,8 +96,11 @@ A Research Platform for Recommendation within Social Networks
 > *[收录文章打包下载]
 The Use of Social Media for Music Analysis and Creation Within the GiantSteps Project
 Social Media and Classical Music?
+
 Evaluation of Text-Processing Algorithms for Adverse Drug Event Extraction from Social Media
+
 Differences Between Social Media and Regulatory Databases in Adverse Drug Reaction Discovery
+
 Ranking Model Selection and Fusion for Effective Microblog Search
 Identifying time zones in a large dataset of music listening logs
 Hyperlink-Extended Pseudo Relevance Feedback for Improved Microblog Retrieval
@@ -127,6 +130,7 @@ Query Performance Prediction for Microblog Search:A Preliminary Study
 [KDD 的social network mining workshops]:http://research.larc.smu.edu.sg/pa/snakdd2014/SNA-KDD2014.htm
 [KDD2014]:http://www.kdd.org/kdd2014/program.html
 [www]:http://www2014.kr/paper/proceedings/
+
 [Social Networks 1]:http://www2014.kr/paper/proceedings/#8
 [Social Networks 2]:http://www2014.kr/paper/proceedings/#20
 [Social Networks 3 – Modeling Influences in Graphs]:http://www2014.kr/paper/proceedings/#25
