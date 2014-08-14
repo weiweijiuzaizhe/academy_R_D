@@ -42,16 +42,26 @@ Xifeng Yan Jiawei Han 被引用1453次
 2. [www]中关于social network的部分
 > * [Social Networks 1]
 Random Walks Based Modularity: Application to Semi-Supervised Learning 
+
 High Quality, Scalable and Parallel Community Detection for Large Real Graphs 
+
 Dynamic and Historical Shortest-Path Distance Queries on Large Evolving Networks by Pruned Landmark Labeling 
+
 > * [Social Networks 2]
 Chaff from the Wheat : Characterization and Modeling of Deleted Questions on Stack Overflow
+
 Timeline Generation: Tracking Individuals on Twitter 
+
 Modeling and Predicting the Growth and Death of Membership-Based Websites 
+
 > * [Social Networks 3 – Modeling Influences in Graphs]
-Who Proposed the Relationship? – Recovering the Hidden Directions of Undirected Social Networks 
+
+Who Proposed the Relationship? – Recovering the Hidden Directions of Undirected Social Networks
+ 
 User Profiling in an Ego Network: Co-Profiling Attributes and Relationships
+
 Attributed Graph Models: Modeling Network Structure with Correlated Attribute
+
 > * [Social Networks 4 – Diffusion]
 The Bursty Dynamics of the Twitter Information Network
 Can Cascades be Predicted?
@@ -60,33 +70,56 @@ How to Influence People with Partial Incentives
 3. [ICML]的 Networks and Graph-Based Learning部分
 > * [Networks and Graph-Based Learning I]
 Joint Inference of Multiple Label Types in Large Networks
+
 Learning the Consistent Behavior of Common Users for Target Node Prediction across Social Networks
+
 Learning Modular Structures from Network Data and Node Variables
+
 Weighted Graph Clustering with Non-Uniform Uncertainties
+
 Efficient Dimensionality Reduction for High-Dimensional Network Estimation
+
 Discovering Latent Network Structure in Point Process Data
+
 > * [Networks and Graph-Based Learning II]
+
 Learning Graphs with a Few Hubs
+
 Global graph kernels using geometric embeddings
+
 Efficient Label Propagation
+
 Estimating Diffusion Network Structures: Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm
+
 Learning from Contagion (Without Timestamps)
+
 Influence Function Learning in Information Diffusion Networks
 
 4. [RECSYS]的[Recommender Systems and the Social Web] 
 2014RECSYS还没召开
 > * [Recommender Systems and the Social Web 2013]被接受的文章列表：
 Social Recommendations for Events
-A Sentiment-Based Approach to Twitter User Recommendation	
-Social Web Recommendation using Metapaths	
+
+A Sentiment-Based Approach to Twitter User Recommendation
+	
+Social Web Recommendation using Metapaths
+	
 On the Intrinsic Challenges of Group Recommendation
+
 Recommendation of shopping places based on social and geographical influences	Romain 
+
 STRec: An Improved Graph-based Tag Recommender	
+
 Structural Diversity in Social Recommender Systems	
+
 Improving Social Recommendations by applying a Personalized Item Clustering policy
+
 Tag Recommendations for SensorFolkSonomies
+
 FoldCons: A Simple Way To Improve Tag Recommendation	
+
 A Research Platform for Recommendation within Social Networks 
+
 
 
 
@@ -95,6 +128,7 @@ A Research Platform for Recommendation within Social Networks
 
 > *[收录文章打包下载]
 The Use of Social Media for Music Analysis and Creation Within the GiantSteps Project
+
 Social Media and Classical Music?
 
 Evaluation of Text-Processing Algorithms for Adverse Drug Event Extraction from Social Media
@@ -102,14 +136,23 @@ Evaluation of Text-Processing Algorithms for Adverse Drug Event Extraction from 
 Differences Between Social Media and Regulatory Databases in Adverse Drug Reaction Discovery
 
 Ranking Model Selection and Fusion for Effective Microblog Search
+
 Identifying time zones in a large dataset of music listening logs
+
 Hyperlink-Extended Pseudo Relevance Feedback for Improved Microblog Retrieval
+
 Short Text Categorization Exploiting Contextual Enrichment and External Knowledge
+
 nowplaying the Future Billboard: Mining Music Listening Behaviors of Twitter Users for Hit Song Prediction
+
 Automatic Identification of Arabic Dialects in Social Media
+
 Constructing Effective and Efficient Topic-Specific Authority Networks for Expert Finding in Social Media
+
 Finding Selfies of Users in Microblogged Photos
+
 Query Performance Prediction for Microblog Search:A Preliminary Study
+
 
 
 [收录文章打包下载]:http://www.cp.jku.at/conferences/SoMeRA2014/preproceedings/somera_preproceedings.zip
