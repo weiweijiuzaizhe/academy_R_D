@@ -1,35 +1,35 @@
-## Google ËÑË÷ graph mining ,Ç°20Ò³ÒıÓÃ³¬¹ı100´ÎµÄÂÛÎÄÁĞ±í
+ï»¿## Google æœç´¢ graph mining ,å‰20é¡µå¼•ç”¨è¶…è¿‡100æ¬¡çš„è®ºæ–‡åˆ—è¡¨
 
 1. Graph Mining: Laws, Generators, and Algorithms  
-(Yahoo! Research and Carnegie Mellon University ÒıÓÃ´ÎÊı379 2006Äê°æ£¬Ã²ËÆÕâ¸ö×îÖØÒª)
+(Yahoo! Research and Carnegie Mellon University å¼•ç”¨æ¬¡æ•°379 2006å¹´ç‰ˆï¼Œè²Œä¼¼è¿™ä¸ªæœ€é‡è¦)
 
-2. An Apriori-based Algorithm for Mining Frequent Substructures from Graph Data(×÷Õß£ºA Inokuchi  ±»ÒıÓÃ´ÎÊı£º843 )
-
-
-3. CloseGraph: Mining Closed Frequent Graph Patterns (×÷Õß£ºX Yan - 2003 - ±»ÒıÓÃ´ÎÊı£º556 - )
+2. An Apriori-based Algorithm for Mining Frequent Substructures from Graph Data(ä½œè€…ï¼šA Inokuchi  è¢«å¼•ç”¨æ¬¡æ•°ï¼š843 )
 
 
-4. SPIN: Mining Maximal Frequent Subgraphs from Graph Databases(×÷Õß£ºJ Huan - 2004 - ±»ÒıÓÃ´ÎÊı£º246 - )
-Ïà¹ØµÄ£ºFrequent pattern mining: current status and future directions(ÒıÓÃ´ÎÊı 884)
+3. CloseGraph: Mining Closed Frequent Graph Patterns (ä½œè€…ï¼šX Yan - 2003 - è¢«å¼•ç”¨æ¬¡æ•°ï¼š556 - )
 
-5. Cyclic Pattern Kernels for Predictive Graph Mining(×÷Õß£ºT Horv¨¢th - 2004 - ±»ÒıÓÃ´ÎÊı£º189)
-Ïà¹ØµÄ£ºShortest-path kernels on graphs(Borgwardt - ±»ÒıÓÃ´ÎÊı£º211)
 
-6. Mining graph evolution rules(×÷Õß£ºM Berlingerio - ±»ÒıÓÃ´ÎÊı£º86 - Ïà¹ØÎÄÕÂ)
-Ïà¹ØµÄ£ºSampling from Large Graphs (×÷Õß£ºJ Leskovec - 2006 - ±»ÒıÓÃ´ÎÊı£º331)
+4. SPIN: Mining Maximal Frequent Subgraphs from Graph Databases(ä½œè€…ï¼šJ Huan - 2004 - è¢«å¼•ç”¨æ¬¡æ•°ï¼š246 - )
+ç›¸å…³çš„ï¼šFrequent pattern mining: current status and future directions(å¼•ç”¨æ¬¡æ•° 884)
 
-7. On Canonical Forms for Frequent Graph Mining(×÷Õß£ºC Borgelt - ±»ÒıÓÃ´ÎÊı£º53 - )
+5. Cyclic Pattern Kernels for Predictive Graph Mining(ä½œè€…ï¼šT HorvÃ¡th - 2004 - è¢«å¼•ç”¨æ¬¡æ•°ï¼š189)
+ç›¸å…³çš„ï¼šShortest-path kernels on graphs(Borgwardt - è¢«å¼•ç”¨æ¬¡æ•°ï¼š211)
 
-8. Link Mining: A New Data Mining Challenge(×÷Õß£ºL Getoor - ±»ÒıÓÃ´ÎÊı£º175 )
-Ïà¹ØµÄ£ºLink mining: a survey - Getoor - ±»ÒıÓÃ´ÎÊı£º654
+6. Mining graph evolution rules(ä½œè€…ï¼šM Berlingerio - è¢«å¼•ç”¨æ¬¡æ•°ï¼š86 - ç›¸å…³æ–‡ç« )
+ç›¸å…³çš„ï¼šSampling from Large Graphs (ä½œè€…ï¼šJ Leskovec - 2006 - è¢«å¼•ç”¨æ¬¡æ•°ï¼š331)
+
+7. On Canonical Forms for Frequent Graph Mining(ä½œè€…ï¼šC Borgelt - è¢«å¼•ç”¨æ¬¡æ•°ï¼š53 - )
+
+8. Link Mining: A New Data Mining Challenge(ä½œè€…ï¼šL Getoor - è¢«å¼•ç”¨æ¬¡æ•°ï¼š175 )
+ç›¸å…³çš„ï¼šLink mining: a survey - Getoor - è¢«å¼•ç”¨æ¬¡æ•°ï¼š654
 
 9. Interaction graph mining for protein complexes using local clique merging
-(×÷Õß£ºXL Li - 2005 - ±»ÒıÓÃ´ÎÊı£º102 )
+(ä½œè€…ï¼šXL Li - 2005 - è¢«å¼•ç”¨æ¬¡æ•°ï¼š102 )
 
-10. PEGASUS: A Peta-Scale Graph Mining System Implementation and Observations(×÷Õß£ºU Kang -±»ÒıÓÃ´ÎÊı£º314 )
-Ïà¹ØµÄ£ºPregel: A System for Large-Scale Graph Processing(±»ÒıÓÃ834´Î)
+10. PEGASUS: A Peta-Scale Graph Mining System Implementation and Observations(ä½œè€…ï¼šU Kang -è¢«å¼•ç”¨æ¬¡æ•°ï¼š314 )
+ç›¸å…³çš„ï¼šPregel: A System for Large-Scale Graph Processing(è¢«å¼•ç”¨834æ¬¡)
 
 
 11. gSpan: Graph-Based Substructure Pattern Mining 
-Xifeng Yan Jiawei Han ±»ÒıÓÃ1453´Î
+Xifeng Yan Jiawei Han è¢«å¼•ç”¨1453æ¬¡
 
