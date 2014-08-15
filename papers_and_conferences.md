@@ -36,122 +36,128 @@ Xifeng Yan Jiawei Han 被引用1453次
 
 ##和图有关的会议，最近收录的文章
 
-1. [KDD 的social network mining workshops]
+### [KDD 的social network mining workshops]
  The 8th SNA-KDD workshop is proposed as the eighth in a successful series of workshops on  social network mining and analysis co-held with KDD, soliciting experimental and theoretical work on social network mining and analysis in both online and offline social network systems. Based on the previous success, this year we propose a special theme of “Social Network Study for Business, Consumer and Social Insights”, which is perfectly aligned with the theme of the main KDD conference. 另外，[KDD2014]整体也值得关注
 
-2. [www]中关于social network的部分
+### [www]中关于social network的部分
  [Social Networks 1]
-Random Walks Based Modularity: Application to Semi-Supervised Learning 
 
-High Quality, Scalable and Parallel Community Detection for Large Real Graphs 
+1. Random Walks Based Modularity: Application to Semi-Supervised Learning 
 
-Dynamic and Historical Shortest-Path Distance Queries on Large Evolving Networks by Pruned Landmark Labeling 
+2. High Quality, Scalable and Parallel Community Detection for Large Real Graphs 
+
+3. Dynamic and Historical Shortest-Path Distance Queries on Large Evolving Networks by Pruned Landmark Labeling 
 
  [Social Networks 2]
-Chaff from the Wheat : Characterization and Modeling of Deleted Questions on Stack Overflow
+4. Chaff from the Wheat : Characterization and Modeling of Deleted Questions on Stack Overflow
 
-Timeline Generation: Tracking Individuals on Twitter 
+5. Timeline Generation: Tracking Individuals on Twitter 
 
-Modeling and Predicting the Growth and Death of Membership-Based Websites 
+6. Modeling and Predicting the Growth and Death of Membership-Based Websites 
 
  [Social Networks 3 – Modeling Influences in Graphs]
 
-Who Proposed the Relationship? – Recovering the Hidden Directions of Undirected Social Networks
+7. Who Proposed the Relationship? – Recovering the Hidden Directions of Undirected Social Networks
  
-User Profiling in an Ego Network: Co-Profiling Attributes and Relationships
+8. User Profiling in an Ego Network: Co-Profiling Attributes and Relationships
 
-Attributed Graph Models: Modeling Network Structure with Correlated Attribute
+9. Attributed Graph Models: Modeling Network Structure with Correlated Attribute
 
  [Social Networks 4 – Diffusion]
-The Bursty Dynamics of the Twitter Information Network
-Can Cascades be Predicted?
-How to Influence People with Partial Incentives 
+10. The Bursty Dynamics of the Twitter Information Network
 
-3. [ICML]的 Networks and Graph-Based Learning部分
+11. Can Cascades be Predicted?
+
+12. How to Influence People with Partial Incentives 
+
+### [ICML]的 Networks and Graph-Based Learning部分
  [Networks and Graph-Based Learning I]
-Joint Inference of Multiple Label Types in Large Networks
 
-Learning the Consistent Behavior of Common Users for Target Node Prediction across Social Networks
+1. Joint Inference of Multiple Label Types in Large Networks
 
-Learning Modular Structures from Network Data and Node Variables
+2. Learning the Consistent Behavior of Common Users for Target Node Prediction across Social Networks
 
-Weighted Graph Clustering with Non-Uniform Uncertainties
+3. Learning Modular Structures from Network Data and Node Variables
 
-Efficient Dimensionality Reduction for High-Dimensional Network Estimation
+4. Weighted Graph Clustering with Non-Uniform Uncertainties
 
-Discovering Latent Network Structure in Point Process Data
+5. Efficient Dimensionality Reduction for High-Dimensional Network Estimation
+
+6. Discovering Latent Network Structure in Point Process Data
 
  [Networks and Graph-Based Learning II]
 
-Learning Graphs with a Few Hubs
+7. Learning Graphs with a Few Hubs
 
-Global graph kernels using geometric embeddings
+8. Global graph kernels using geometric embeddings
 
-Efficient Label Propagation
+9. Efficient Label Propagation
 
-Estimating Diffusion Network Structures: Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm
+10. Estimating Diffusion Network Structures: Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm
 
-Learning from Contagion (Without Timestamps)
+11. Learning from Contagion (Without Timestamps)
 
-Influence Function Learning in Information Diffusion Networks
+12. Influence Function Learning in Information Diffusion Networks
 
-4. [RECSYS]的[Recommender Systems and the Social Web] 
+### [RECSYS]的[Recommender Systems and the Social Web] 
 2014RECSYS还没召开
  [Recommender Systems and the Social Web 2013]被接受的文章列表：
-Social Recommendations for Events
 
-A Sentiment-Based Approach to Twitter User Recommendation
+1. Social Recommendations for Events
+
+2. A Sentiment-Based Approach to Twitter User Recommendation
 	
-Social Web Recommendation using Metapaths
+3. Social Web Recommendation using Metapaths
 	
-On the Intrinsic Challenges of Group Recommendation
+4. On the Intrinsic Challenges of Group Recommendation
 
-Recommendation of shopping places based on social and geographical influences	Romain 
+5. Recommendation of shopping places based on social and geographical influences	Romain 
 
-STRec: An Improved Graph-based Tag Recommender	
+6. STRec: An Improved Graph-based Tag Recommender	
 
-Structural Diversity in Social Recommender Systems	
+7. Structural Diversity in Social Recommender Systems	
 
-Improving Social Recommendations by applying a Personalized Item Clustering policy
+8. Improving Social Recommendations by applying a Personalized Item Clustering policy
 
-Tag Recommendations for SensorFolkSonomies
+9. Tag Recommendations for SensorFolkSonomies
 
-FoldCons: A Simple Way To Improve Tag Recommendation	
+10. FoldCons: A Simple Way To Improve Tag Recommendation	
 
-A Research Platform for Recommendation within Social Networks 
-
-
+11. A Research Platform for Recommendation within Social Networks 
 
 
-5. [ICDM]:整体感觉这个会议比较乱，主页做得乱七八糟的，2014年的貌似还没有开，打算在深圳开,没有找到对应的paper链接
-6. [sigir]2014年的social media分会[SoMeRA]
+
+
+### [ICDM]:整体感觉这个会议比较乱，主页做得乱七八糟的，2014年的貌似还没有开，打算在深圳开,没有找到对应的paper链接
+### [sigir]2014年的social media分会[SoMeRA]
 
 [收录文章打包下载]
-The Use of Social Media for Music Analysis and Creation Within the GiantSteps Project
 
-Social Media and Classical Music?
+1. The Use of Social Media for Music Analysis and Creation Within the GiantSteps Project
 
-Evaluation of Text-Processing Algorithms for Adverse Drug Event Extraction from Social Media
+2. Social Media and Classical Music?
 
-Differences Between Social Media and Regulatory Databases in Adverse Drug Reaction Discovery
+3. Evaluation of Text-Processing Algorithms for Adverse Drug Event Extraction from Social Media
 
-Ranking Model Selection and Fusion for Effective Microblog Search
+4. Differences Between Social Media and Regulatory Databases in Adverse Drug Reaction Discovery
 
-Identifying time zones in a large dataset of music listening logs
+5. Ranking Model Selection and Fusion for Effective Microblog Search
 
-Hyperlink-Extended Pseudo Relevance Feedback for Improved Microblog Retrieval
+6. Identifying time zones in a large dataset of music listening logs
 
-Short Text Categorization Exploiting Contextual Enrichment and External Knowledge
+7. Hyperlink-Extended Pseudo Relevance Feedback for Improved Microblog Retrieval
 
-nowplaying the Future Billboard: Mining Music Listening Behaviors of Twitter Users for Hit Song Prediction
+8. Short Text Categorization Exploiting Contextual Enrichment and External Knowledge
 
-Automatic Identification of Arabic Dialects in Social Media
+9. nowplaying the Future Billboard: Mining Music Listening Behaviors of Twitter Users for Hit Song Prediction
 
-Constructing Effective and Efficient Topic-Specific Authority Networks for Expert Finding in Social Media
+10. Automatic Identification of Arabic Dialects in Social Media
 
-Finding Selfies of Users in Microblogged Photos
+11. Constructing Effective and Efficient Topic-Specific Authority Networks for Expert Finding in Social Media
 
-Query Performance Prediction for Microblog Search:A Preliminary Study
+12. Finding Selfies of Users in Microblogged Photos
+
+13. Query Performance Prediction for Microblog Search:A Preliminary Study
 
 
 
