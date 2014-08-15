@@ -163,6 +163,18 @@ Xifeng Yan Jiawei Han 被引用1453次
 
 
 
+##[豆瓣上一个人整理的social computing会议列表]
+
+##可以关注的知名研究者
+1. [Jon Kleinberg]
+2. [mark newman]
+
+
+
+[Jon Kleinberg]:http://www.cs.cornell.edu/home/kleinber/
+[mark newman]:http://www-personal.umich.edu/~mejn/pubs.html
+
+[豆瓣上一个人整理的social computing会议列表]:http://www.douban.com/group/topic/33541638/ 
 [收录文章打包下载]:http://www.cp.jku.at/conferences/SoMeRA2014/preproceedings/somera_preproceedings.zip
 
 
