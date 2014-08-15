@@ -170,7 +170,7 @@ Xifeng Yan Jiawei Han 被引用1453次
 [sigir]:http://sigir.org/sigir2014/finalworkshops.php#SoMeRA
 
 
-[ICDM]:
+[ICDM]:http://icdm2013.rutgers.edu/
 [Recommender Systems and the Social Web 2013]:http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2013/index.shtml
 [Recommender Systems and the Social Web]:http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/index.shtml
 [RECSYS]:http://recsys.acm.org/
