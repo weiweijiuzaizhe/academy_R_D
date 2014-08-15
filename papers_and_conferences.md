@@ -40,6 +40,7 @@ Xifeng Yan Jiawei Han 被引用1453次
  The 8th SNA-KDD workshop is proposed as the eighth in a successful series of workshops on  social network mining and analysis co-held with KDD, soliciting experimental and theoretical work on social network mining and analysis in both online and offline social network systems. Based on the previous success, this year we propose a special theme of “Social Network Study for Business, Consumer and Social Insights”, which is perfectly aligned with the theme of the main KDD conference. 另外，[KDD2014]整体也值得关注
 
 ### [www]中关于social network的部分
+ 
  [Social Networks 1]
 
 1. Random Walks Based Modularity: Application to Semi-Supervised Learning 
@@ -71,6 +72,7 @@ Xifeng Yan Jiawei Han 被引用1453次
 12. How to Influence People with Partial Incentives 
 
 ### [ICML]的 Networks and Graph-Based Learning部分
+ 
  [Networks and Graph-Based Learning I]
 
 1. Joint Inference of Multiple Label Types in Large Networks
