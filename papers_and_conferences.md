@@ -171,6 +171,15 @@ Xifeng Yan Jiawei Han 被引用1453次
 
 
 
+##知名的研究项目组
+1. [Stanford Network Analysis Project]发表了多篇引用率极高的文章，提供一系列网络检测的工具和数据集。
+
+
+
+
+[Stanford Network Analysis Project]:http://snap.stanford.edu/
+
+
 [Jon Kleinberg]:http://www.cs.cornell.edu/home/kleinber/
 [mark newman]:http://www-personal.umich.edu/~mejn/pubs.html
 
