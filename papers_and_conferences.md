@@ -36,154 +36,126 @@ Xifeng Yan Jiawei Han 被引用1453次
 
 ##和图有关的会议，最近收录的文章
 
-### [KDD 的social network mining workshops]
+1. [KDD 的social network mining workshops]
  The 8th SNA-KDD workshop is proposed as the eighth in a successful series of workshops on  social network mining and analysis co-held with KDD, soliciting experimental and theoretical work on social network mining and analysis in both online and offline social network systems. Based on the previous success, this year we propose a special theme of “Social Network Study for Business, Consumer and Social Insights”, which is perfectly aligned with the theme of the main KDD conference. 另外，[KDD2014]整体也值得关注
 
-### [www]中关于social network的部分
- 
+2. [www]中关于social network的部分
  [Social Networks 1]
+Random Walks Based Modularity: Application to Semi-Supervised Learning 
 
-1. Random Walks Based Modularity: Application to Semi-Supervised Learning 
+High Quality, Scalable and Parallel Community Detection for Large Real Graphs 
 
-2. High Quality, Scalable and Parallel Community Detection for Large Real Graphs 
-
-3. Dynamic and Historical Shortest-Path Distance Queries on Large Evolving Networks by Pruned Landmark Labeling 
+Dynamic and Historical Shortest-Path Distance Queries on Large Evolving Networks by Pruned Landmark Labeling 
 
  [Social Networks 2]
-4. Chaff from the Wheat : Characterization and Modeling of Deleted Questions on Stack Overflow
+Chaff from the Wheat : Characterization and Modeling of Deleted Questions on Stack Overflow
 
-5. Timeline Generation: Tracking Individuals on Twitter 
+Timeline Generation: Tracking Individuals on Twitter 
 
-6. Modeling and Predicting the Growth and Death of Membership-Based Websites 
+Modeling and Predicting the Growth and Death of Membership-Based Websites 
 
  [Social Networks 3 – Modeling Influences in Graphs]
 
-7. Who Proposed the Relationship? – Recovering the Hidden Directions of Undirected Social Networks
+Who Proposed the Relationship? – Recovering the Hidden Directions of Undirected Social Networks
  
-8. User Profiling in an Ego Network: Co-Profiling Attributes and Relationships
+User Profiling in an Ego Network: Co-Profiling Attributes and Relationships
 
-9. Attributed Graph Models: Modeling Network Structure with Correlated Attribute
+Attributed Graph Models: Modeling Network Structure with Correlated Attribute
 
  [Social Networks 4 – Diffusion]
-10. The Bursty Dynamics of the Twitter Information Network
+The Bursty Dynamics of the Twitter Information Network
+Can Cascades be Predicted?
+How to Influence People with Partial Incentives 
 
-11. Can Cascades be Predicted?
-
-12. How to Influence People with Partial Incentives 
-
-### [ICML]的 Networks and Graph-Based Learning部分
- 
+3. [ICML]的 Networks and Graph-Based Learning部分
  [Networks and Graph-Based Learning I]
+Joint Inference of Multiple Label Types in Large Networks
 
-1. Joint Inference of Multiple Label Types in Large Networks
+Learning the Consistent Behavior of Common Users for Target Node Prediction across Social Networks
 
-2. Learning the Consistent Behavior of Common Users for Target Node Prediction across Social Networks
+Learning Modular Structures from Network Data and Node Variables
 
-3. Learning Modular Structures from Network Data and Node Variables
+Weighted Graph Clustering with Non-Uniform Uncertainties
 
-4. Weighted Graph Clustering with Non-Uniform Uncertainties
+Efficient Dimensionality Reduction for High-Dimensional Network Estimation
 
-5. Efficient Dimensionality Reduction for High-Dimensional Network Estimation
-
-6. Discovering Latent Network Structure in Point Process Data
+Discovering Latent Network Structure in Point Process Data
 
  [Networks and Graph-Based Learning II]
 
-7. Learning Graphs with a Few Hubs
+Learning Graphs with a Few Hubs
 
-8. Global graph kernels using geometric embeddings
+Global graph kernels using geometric embeddings
 
-9. Efficient Label Propagation
+Efficient Label Propagation
 
-10. Estimating Diffusion Network Structures: Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm
+Estimating Diffusion Network Structures: Recovery Conditions, Sample Complexity & Soft-thresholding Algorithm
 
-11. Learning from Contagion (Without Timestamps)
+Learning from Contagion (Without Timestamps)
 
-12. Influence Function Learning in Information Diffusion Networks
+Influence Function Learning in Information Diffusion Networks
 
-### [RECSYS]的[Recommender Systems and the Social Web] 
+4. [RECSYS]的[Recommender Systems and the Social Web] 
 2014RECSYS还没召开
- [Recommender Systems and the Social Web 2013]被接受的文章列表：
 
-1. Social Recommendations for Events
+[Recommender Systems and the Social Web 2013]被接受的文章列表：
+Social Recommendations for Events
 
-2. A Sentiment-Based Approach to Twitter User Recommendation
+A Sentiment-Based Approach to Twitter User Recommendation
 	
-3. Social Web Recommendation using Metapaths
+Social Web Recommendation using Metapaths
 	
-4. On the Intrinsic Challenges of Group Recommendation
+On the Intrinsic Challenges of Group Recommendation
 
-5. Recommendation of shopping places based on social and geographical influences	Romain 
+Recommendation of shopping places based on social and geographical influences	Romain 
 
-6. STRec: An Improved Graph-based Tag Recommender	
+STRec: An Improved Graph-based Tag Recommender	
 
-7. Structural Diversity in Social Recommender Systems	
+Structural Diversity in Social Recommender Systems	
 
-8. Improving Social Recommendations by applying a Personalized Item Clustering policy
+Improving Social Recommendations by applying a Personalized Item Clustering policy
 
-9. Tag Recommendations for SensorFolkSonomies
+Tag Recommendations for SensorFolkSonomies
 
-10. FoldCons: A Simple Way To Improve Tag Recommendation	
+FoldCons: A Simple Way To Improve Tag Recommendation	
 
-11. A Research Platform for Recommendation within Social Networks 
-
-
+A Research Platform for Recommendation within Social Networks 
 
 
-### [ICDM]:整体感觉这个会议比较乱，主页做得乱七八糟的，2014年的貌似还没有开，打算在深圳开,没有找到对应的paper链接
-### [sigir]2014年的social media分会[SoMeRA]
+
+
+5. [ICDM]:整体感觉这个会议比较乱，主页做得乱七八糟的，2014年的貌似还没有开，打算在深圳开,没有找到对应的paper链接
+6. [sigir]2014年的social media分会[SoMeRA]
 
 [收录文章打包下载]
+The Use of Social Media for Music Analysis and Creation Within the GiantSteps Project
 
-1. The Use of Social Media for Music Analysis and Creation Within the GiantSteps Project
+Social Media and Classical Music?
 
-2. Social Media and Classical Music?
+Evaluation of Text-Processing Algorithms for Adverse Drug Event Extraction from Social Media
 
-3. Evaluation of Text-Processing Algorithms for Adverse Drug Event Extraction from Social Media
+Differences Between Social Media and Regulatory Databases in Adverse Drug Reaction Discovery
 
-4. Differences Between Social Media and Regulatory Databases in Adverse Drug Reaction Discovery
+Ranking Model Selection and Fusion for Effective Microblog Search
 
-5. Ranking Model Selection and Fusion for Effective Microblog Search
+Identifying time zones in a large dataset of music listening logs
 
-6. Identifying time zones in a large dataset of music listening logs
+Hyperlink-Extended Pseudo Relevance Feedback for Improved Microblog Retrieval
 
-7. Hyperlink-Extended Pseudo Relevance Feedback for Improved Microblog Retrieval
+Short Text Categorization Exploiting Contextual Enrichment and External Knowledge
 
-8. Short Text Categorization Exploiting Contextual Enrichment and External Knowledge
+nowplaying the Future Billboard: Mining Music Listening Behaviors of Twitter Users for Hit Song Prediction
 
-9. nowplaying the Future Billboard: Mining Music Listening Behaviors of Twitter Users for Hit Song Prediction
+Automatic Identification of Arabic Dialects in Social Media
 
-10. Automatic Identification of Arabic Dialects in Social Media
+Constructing Effective and Efficient Topic-Specific Authority Networks for Expert Finding in Social Media
 
-11. Constructing Effective and Efficient Topic-Specific Authority Networks for Expert Finding in Social Media
+Finding Selfies of Users in Microblogged Photos
 
-12. Finding Selfies of Users in Microblogged Photos
-
-13. Query Performance Prediction for Microblog Search:A Preliminary Study
-
-
-
-##[豆瓣上一个人整理的social computing会议列表]
-
-##可以关注的知名研究者
-1. [Jon Kleinberg]
-2. [mark newman]
+Query Performance Prediction for Microblog Search:A Preliminary Study
 
 
 
-##知名的研究项目组
-1. [Stanford Network Analysis Project]发表了多篇引用率极高的文章，提供一系列网络检测的工具和数据集。
-
-
-
-
-[Stanford Network Analysis Project]:http://snap.stanford.edu/
-
-
-[Jon Kleinberg]:http://www.cs.cornell.edu/home/kleinber/
-[mark newman]:http://www-personal.umich.edu/~mejn/pubs.html
-
-[豆瓣上一个人整理的social computing会议列表]:http://www.douban.com/group/topic/33541638/ 
 [收录文章打包下载]:http://www.cp.jku.at/conferences/SoMeRA2014/preproceedings/somera_preproceedings.zip
 
 
@@ -193,7 +165,7 @@ Xifeng Yan Jiawei Han 被引用1453次
 [sigir]:http://sigir.org/sigir2014/finalworkshops.php#SoMeRA
 
 
-[ICDM]:http://icdm2013.rutgers.edu/
+[ICDM]:
 [Recommender Systems and the Social Web 2013]:http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2013/index.shtml
 [Recommender Systems and the Social Web]:http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/index.shtml
 [RECSYS]:http://recsys.acm.org/
